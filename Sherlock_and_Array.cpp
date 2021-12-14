@@ -7,7 +7,7 @@ string rtrim(const string &);
 vector<string> split(const string &);
 
 /*
- * Complete the 'balancedSums' function below.
+ * The 'balancedSums' function below.
  *
  * The function is expected to return a STRING.
  * The function accepts INTEGER_ARRAY arr as parameter.
