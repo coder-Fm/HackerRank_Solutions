@@ -32,7 +32,7 @@ int superDigit(string n, int k) {
 
 }
 
-int main()
+int main() 
 {
     ofstream fout(getenv("OUTPUT_PATH"));
 
