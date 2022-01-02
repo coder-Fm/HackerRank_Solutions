@@ -18,7 +18,7 @@ vector<string> split(const string &);
 vector<int> climbingLeaderboard(vector<int> ranked, vector<int> player) {
     int index = player.size() - 1;
     int rank = 1;
-    vector<int> temp(player.size(),0);
+    vector<int> temp(player.size(), 0);
 
     for (int i = 0; i < ranked.size(); i++) {
         if(ranked[i] != ranked[0]){
